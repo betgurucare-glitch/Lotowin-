@@ -1,0 +1,6 @@
+{
+  "name": "LottoWin",
+  "description": "Real-time lottery draw results, ticket purchases, secure wallet & payment gateway, win checker, and complete admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
